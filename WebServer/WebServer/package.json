@@ -1,0 +1,14 @@
+{
+  "name": "WebServer",
+  "version": "0.0.0",
+  "description": "WebServer",
+  "main": "app.ts",
+  "author": {
+    "name": "DoDuy",
+    "email": "doduytrung@hotmail.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "3.4.4"
+  }
+}
